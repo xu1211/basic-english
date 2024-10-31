@@ -1,6 +1,7 @@
-# basic-english
+# ogden basic-english
  基础英语
--原文 http://ogden.basic-english.org/
+-原文 https://zbenglish.net/sites/basic/basiceng.html
+http://ogden.basic-english.org/
 
 >最基本的850个单词，可以表达词典中90％的语句
 
